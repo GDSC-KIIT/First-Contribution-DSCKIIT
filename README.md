@@ -5,7 +5,7 @@
 
 
 # Want to Contribute ?
-[Contribute]()
+[Contribute](https://github.com/DSC-KIIT/First-Contribution-DSCKIIT/blob/main/CONTRIBUTING.md)
 
 
 
